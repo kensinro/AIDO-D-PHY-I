@@ -1,0 +1,25 @@
+# Manifest
+
+- `.gitignore`
+- `FIG_MAP.md`
+- `GA/GA_v1.png`
+- `LICENSE`
+- `README.md`
+- `RUN.md`
+- `SM_MAP.md`
+- `code/core/01_planB.py`
+- `code/rand/02_random_master.py`
+- `code/rand/03_highD_dissect.py`
+- `code/si/S1_activity_width.py`
+- `code/si/S2_lambda.py`
+- `code/si/S3_K_scale.py`
+- `code/si/S4_random_diag.py`
+- `code/si/S5_top_obs.py`
+- `legacy/old_S1_S3.py`
+- `legacy/old_S4_S6.py`
+- `legacy/old_S7_S10.py`
+- `ms/SI_v4.pdf`
+- `ms/SM_v5.pdf`
+- `ms/main_v15.pdf`
+- `out/.gitkeep`
+- `requirements.txt`
